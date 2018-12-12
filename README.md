@@ -9,3 +9,4 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 * Unity 2017.2f
 * Blender 2.79
 * Audacity
+* GIMP
