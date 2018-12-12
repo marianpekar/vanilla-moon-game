@@ -6,7 +6,7 @@ Song 'Dreams' by Alan Špiljak is under CC BY-NC-ND 4.0
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Software Used
-* Unity 2017.2f
+* Unity 2018.1.0f2
 * Blender 2.79
 * Audacity
 * GIMP
